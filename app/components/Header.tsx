@@ -1,5 +1,6 @@
 import Link from "next/link"
 import NavButton from "./NavButton"
+import { ThemeToggle } from "./theme-toggle"
 
 export default function Header() {
   const navItems = [
@@ -15,12 +16,13 @@ export default function Header() {
           <Link href="/" className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">
             Asuka
           </Link>
-          <div className="hidden md:flex space-x-4">
+          <div className="hidden md:flex items-center space-x-4">
             {navItems.map((item) => (
               <NavButton key={item.href} href={item.href}>
                 {item.label}
               </NavButton>
             ))}
+            <ThemeToggle />
           </div>
         </div>
       </nav>
