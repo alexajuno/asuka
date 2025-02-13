@@ -9,3 +9,5 @@ globs:
 - You can use markdown but dont have to
 - Using `pnpm` for commands
 - We are using shadcn/ui components and the ecosystem around it like TailwindCSS, lucide-react, etc.
+- Remember to use `shadcn/ui` provided components rather than vanilla code.
+- Check for duplicated components and wrap them if possible and suitable.

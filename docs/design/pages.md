@@ -1,7 +1,7 @@
 - Home
-    - 
-- About
-- Contact
+    - Hero
+    - About
+    - Contact
 - Blog
 - Projects
     - Embedded

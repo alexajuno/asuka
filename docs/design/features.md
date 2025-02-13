@@ -1,0 +1,5 @@
+- Blog
+    - Comments
+    - Likes
+    - Share
+- Contact via email from home page
