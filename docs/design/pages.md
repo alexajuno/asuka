@@ -1,0 +1,8 @@
+- Home
+    - 
+- About
+- Contact
+- Blog
+- Projects
+    - Embedded
+    - Links

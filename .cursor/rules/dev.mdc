@@ -1,0 +1,11 @@
+---
+description: Development
+globs: 
+---
+
+# Your rule content
+
+- You can @ files here
+- You can use markdown but dont have to
+- Using `pnpm` for commands
+- We are using shadcn/ui components and the ecosystem around it like TailwindCSS, lucide-react, etc.
